@@ -1,0 +1,20 @@
+@import "_fonts";
+@import "_mixins";
+@import "_variables";
+@import "_change-price";
+
+
+
+body {
+  font-family: "Montserrat Bold";
+  background: #F7F7FE;
+  padding-top: calc(50vh - ($min-height/2));
+  padding-bottom: calc(50vh - ($min-height/2));
+}
+
+
+
+
+
+
+
